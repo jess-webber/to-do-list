@@ -1,6 +1,6 @@
 # To-do list
 
-[Preview](to-do-list-image.png)
+![Preview](https://raw.githubusercontent.com/jess-webber/to-do-list/master/build/To-do-list-image.png)
 
 
 This project was made with React, Javascript and CSS.
